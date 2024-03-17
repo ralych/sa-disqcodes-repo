@@ -3,29 +3,32 @@
   <DSQITEMS>
 <!-- GENERAL MATTER -->
 <!-- adaptation term butterfly (GER, FRA, ITA), November 13, 2021, DP  -->
-    <DSQITEM code="100" lenexcode="100" name="Non-observance of instructions of the referee or the organiser" options="ALL,INDIVIDUAL,RELAY" order="1" />
+<!-- general refactoring of texts in all languages and adabptions to the rules 2024, RL -->
+    <DSQITEM code="100" lenexcode="100" name="Non-observance of instructions of the referee or a judge" options="ALL,INDIVIDUAL,RELAY" order="1" />
     <DSQITEM code="101" lenexcode="101" name="Unsportsmanlike behavior" options="ALL,INDIVIDUAL,RELAY" order="2" />
     <DSQITEM code="102" lenexcode="102" name="Pulling on the rope" options="ALL,INDIVIDUAL,RELAY" order="3" />
     <DSQITEM code="103" lenexcode="103" name="Coaching" options="ALL,INDIVIDUAL,RELAY" order="4" />
-    <DSQITEM code="104" lenexcode="104" name="Walking at / Pushing off the bottom of the pool" options="ALL,INDIVIDUAL,RELAY" order="5" />
+    <DSQITEM code="104" lenexcode="104" name="Walking on the bottom of the pool" options="ALL,INDIVIDUAL,RELAY" order="5" />
     <DSQITEM code="105" lenexcode="105" name="Unauthorized entering the water" options="ALL,INDIVIDUAL,RELAY" order="6" />
-    <DSQITEM code="106" lenexcode="106" name="Obstructing/disturbing another swimmer" options="ALL,INDIVIDUAL,RELAY" order="7" />
+    <DSQITEM code="106" lenexcode="106" name="Obstructing another swimmer" options="ALL,INDIVIDUAL,RELAY" order="7" />
     <DSQITEM code="107" lenexcode="107" name="Wrong order of swimming styles" options="INDIVIDUAL,MEDLEY,RELAY" order="8" />
     <DSQITEM code="108" lenexcode="108" name="Swimming below the water surface" options="ALL,INDIVIDUAL,RELAY" order="9" />
     <DSQITEM code="109" lenexcode="109" name="Unauthorized substitution or change of order in the relay" options="ALL,RELAY" order="10" />
-    <DSQITEM code="110" lenexcode="110" name="Using or wearing an undue divice" options="ALL,INDIVIDUAL,RELAY" order="11" />
+    <DSQITEM code="110" lenexcode="110" name="Use of non-approved device" options="ALL,INDIVIDUAL,RELAY" order="11" />
     <DSQITEM code="111" lenexcode="111" name="Swimsuit not complying with rules" options="ALL,INDIVIDUAL,RELAY" order="12" />
     <DSQITEM code="113" lenexcode="113" name="Did not finish" options="ALL,INDIVIDUAL,RELAY" order="13" />
+    <!-- added new codes 114,115,120; 2024, RL-->
+    <DSQITEM code="114" lenexcode="114" name="Has left his lane" options="ALL,INDIVIDUAL,RELAY" order="14" />
+    <DSQITEM code="115" lenexcode="115" name="Non-observance of instructions leaving the pool" options="ALL,INDIVIDUAL,RELAY" order="15" />
+    <DSQITEM code="120" lenexcode="120" name="Other reasons" options="ALL,INDIVIDUAL,RELAY" order="20" />
 <!-- START -->
     <DSQITEM code="201" lenexcode="201" name="Non-observance of the orders during starting procedure" options="ALL,INDIVIDUAL,RELAY" order="21" />
-    <DSQITEM code="202" lenexcode="202" name="Falling into the water prior to the starting signal" options="ALL,INDIVIDUAL,RELAY" order="22" />
-    <DSQITEM code="203" lenexcode="203" name="Moving prior to the starting signal" options="ALL,INDIVIDUAL,RELAY" order="23" />
-    <DSQITEM code="204" lenexcode="204" name="Starting before the starting signal" options="ALL,INDIVIDUAL,RELAY" order="24" />
-    <DSQITEM code="205" lenexcode="205" name="Early relief (relay swimmer [N])" options="ALL,RELAY" order="25" />
+    <DSQITEM code="204" lenexcode="204" name="Initiating a start before the starting signal" options="ALL,INDIVIDUAL,RELAY" order="24" />
+    <DSQITEM code="205" lenexcode="205" name="Early takeover (relay swimmer [N])" options="ALL,RELAY" order="25" />
     <DSQITEM code="206" lenexcode="206" name="Underwater phase: More than one dolphin kick (start)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="26" />
     <DSQITEM code="207" lenexcode="207" name="Two armstrokes before breaking the water surface (start)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="27" />
     <DSQITEM code="208" lenexcode="208" name="Submerged for more than 15m (start)" options="BACKSTROKE,FLY,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="28" />
-    <DSQITEM code="209" lenexcode="209" name="Toes of both feet not in contact with wall or face of the touchpad (start)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="29" />
+    <DSQITEM code="209" lenexcode="209" name="One toe of each foot not in contact with wall or face of the touchpad (start)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="29" />
 <!-- TURN -->
     <DSQITEM code="301" lenexcode="301" name="Arms not brought forward over the water (turn [N])" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="36" />
     <DSQITEM code="302" lenexcode="302" name="Wall not touched (turn [N])" options="BACKSTROKE,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="37" />
@@ -41,7 +44,7 @@
     <DSQITEM code="401" lenexcode="401" name="Arms not brought forward out of the water (finish)" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="51" />
     <DSQITEM code="403" lenexcode="403" name="Wall not touched simultaneously with both hands (finish)" options="BREASTSTROKE,FLY,INDIVIDUAL,MEDLEY,RELAY" order="52" />
     <DSQITEM code="404" lenexcode="404" name="Touching the wall while not on the back (finish)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="53" />
-    <DSQITEM code="405" lenexcode="405" name="Swimmer completely submerged (finish)" options="BACKSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="54" />
+    <DSQITEM code="405" lenexcode="405" name="Swimmer completely submerged more than 5m from the finish" options="BACKSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="54" />
     <DSQITEM code="406" lenexcode="406" name="Hands not separated (finish)" options="FLY,BREASTSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="55" />
 <!-- STYLE ERRORS -->
 <!-- BUTTTERFLY -->
@@ -53,12 +56,12 @@
 <!-- BACKSTROKE -->
     <DSQITEM code="511" lenexcode="511" name="Not swimming upon the back" options="BACKSTROKE,INDIVIDUAL,RELAY" order="71" />
 <!-- BREASTSTROKE -->
-    <DSQITEM code="521" lenexcode="521" name="Body not kept on the breast" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="76" />
-    <DSQITEM code="522" lenexcode="522" name="Arm movements not simultaneous in the same horizontal plane" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="77" />
+    <DSQITEM code="521" lenexcode="521" name="Body not in breast position" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="76" />
+    <DSQITEM code="522" lenexcode="522" name="Arm movements not simultaneous " options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="77" />
     <DSQITEM code="523" lenexcode="523" name="Elbows not permanently under water" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="78" />
     <DSQITEM code="524" lenexcode="524" name="Hands brought back beyond the hip line" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="79" />
     <DSQITEM code="525" lenexcode="525" name="Feet not turned outwards during propulsive part of the kick" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="80" />
-    <DSQITEM code="526" lenexcode="526" name="Leg movements not simultaneous in the same horizontal plane" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="81" />
+    <DSQITEM code="526" lenexcode="526" name="Leg movements not simultaneous" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="81" />
     <DSQITEM code="527" lenexcode="527" name="Alternating kicks during swimming" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="82" />
     <DSQITEM code="528" lenexcode="528" name="Downward dolphin kick during swimming" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="83" />
     <DSQITEM code="529" lenexcode="529" name="Head not breaking the surface of the water during each cycle" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="84" />
