@@ -23,12 +23,12 @@
     <DSQITEM code="120" lenexcode="120" name="Altre ragioni" options="ALL,INDIVIDUAL,RELAY" order="20" />
 <!-- START -->
     <DSQITEM code="201" lenexcode="201" name="Non rispetto degli ordini durante la procedura di partenza" options="ALL,INDIVIDUAL,RELAY" order="21" />
-    <DSQITEM code="204" lenexcode="204" name="Partenza prima del segnale di partenza" options="ALL,INDIVIDUAL,RELAY" order="24" />
+    <DSQITEM code="204" lenexcode="204" name="Inizio della partenza prima del segnale di partenza" options="ALL,INDIVIDUAL,RELAY" order="24" />
     <DSQITEM code="205" lenexcode="205" name="Cambio anticipato (frazionista [N])" options="ALL,RELAY" order="25" />
-    <DSQITEM code="206" lenexcode="206" name="Piï¿½ di un colpo di farfalla sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="26" />
+    <DSQITEM code="206" lenexcode="206" name="Fase subacquea : più di un colpo di gambe a farfalla sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="26" />
     <DSQITEM code="207" lenexcode="207" name="Due movimenti di braccia completi sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="27" />
     <DSQITEM code="208" lenexcode="208" name="Fase sott'acqua oltre i 15m (partenza)" options="BACKSTROKE,FLY,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="28" />
-    <DSQITEM code="209" lenexcode="209" name="Dita dei due piedi non in contatto col muro o la placca (partenza)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="29" />
+    <DSQITEM code="209" lenexcode="209" name="Un dito di ogni piede non in contatto col muro o la placca (partenza)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="29" />
 <!-- TURN -->
     <DSQITEM code="301" lenexcode="301" name="Non portato in avanti le braccia sopra la superficie dell'acqua (virata [N])" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="36" />
     <DSQITEM code="302" lenexcode="302" name="Per non aver toccato la parete (virata [N])" options="BACKSTROKE,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="37" />
