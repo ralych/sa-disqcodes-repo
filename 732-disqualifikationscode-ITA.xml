@@ -3,25 +3,29 @@
   <DSQITEMS>
 <!-- GENERAL MATTER -->
 <!-- adaptation term butterfly (GER, FRA, ITA), November 13, 2021, DP  -->
-    <DSQITEM code="100" lenexcode="100" name="Non rispetto degli ordini del giudice arbitro o del organuzzatore" options="ALL,INDIVIDUAL,RELAY" order="1" />
+<!-- general refactoring of texts in all languages and adabptions to the rules 2024, RL -->
+    <DSQITEM code="100" lenexcode="100" name="Non rispetto delle istruzioni del giudice arbitro o di un giudice" options="ALL,INDIVIDUAL,RELAY" order="1" />
     <DSQITEM code="101" lenexcode="101" name="Comportamento antisportivo" options="ALL,INDIVIDUAL,RELAY" order="2" />
-    <DSQITEM code="102" lenexcode="102" name="Tirato alla corsia" options="ALL,INDIVIDUAL,RELAY" order="3" />
+    <DSQITEM code="102" lenexcode="102" name="Essersi tirato alla corsia" options="ALL,INDIVIDUAL,RELAY" order="3" />
     <DSQITEM code="103" lenexcode="103" name="Coaching" options="ALL,INDIVIDUAL,RELAY" order="4" />
-    <DSQITEM code="104" lenexcode="104" name="Camminato/spinto sul/dal fondo" options="ALL,INDIVIDUAL,RELAY" order="5" />
-    <DSQITEM code="105" lenexcode="105" name="Entrata illegale acqua" options="ALL,INDIVIDUAL,RELAY" order="6" />
-    <DSQITEM code="106" lenexcode="106" name="Ostacolare/disturbare un altro nuotatore" options="ALL,INDIVIDUAL,RELAY" order="7" />
+    <DSQITEM code="104" lenexcode="104" name="Camminato sul fondo della vasca" options="ALL,INDIVIDUAL,RELAY" order="5" />
+    <DSQITEM code="105" lenexcode="105" name="Entrata in acqua non autorizzata" options="ALL,INDIVIDUAL,RELAY" order="6" />
+    <DSQITEM code="106" lenexcode="106" name="Ostruzione di un altro nuotatore" options="ALL,INDIVIDUAL,RELAY" order="7" />
     <DSQITEM code="107" lenexcode="107" name="Successione errata degli stili" options="INDIVIDUAL,MEDLEY,RELAY" order="8" />
     <DSQITEM code="108" lenexcode="108" name="Nuoto sotto la superficie dell'acqua" options="ALL,INDIVIDUAL,RELAY" order="9" />
-    <DSQITEM code="109" lenexcode="109" name="Modifica o cambiamento dell'ordine non autorizzato in una staffetta" options="ALL,RELAY" order="10" />
-    <DSQITEM code="110" lenexcode="110" name="Utilizzo o porto di un supporto non autorizzato" options="ALL,INDIVIDUAL,RELAY" order="11" />
+    <DSQITEM code="109" lenexcode="109" name="Modifica o cambiamento dell'ordine non autorizzati in una staffetta" options="ALL,RELAY" order="10" />
+    <DSQITEM code="110" lenexcode="110" name="Utilizzo di un supporto non approvato" options="ALL,INDIVIDUAL,RELAY" order="11" />
     <DSQITEM code="111" lenexcode="111" name="Tenuta da bagno non conforme al regolamento" options="ALL,INDIVIDUAL,RELAY" order="12" />
     <DSQITEM code="113" lenexcode="113" name="Corsa non terminata" options="ALL,INDIVIDUAL,RELAY" order="13" />
+    <!-- added new codes 114,115,120; 2024, RL-->
+    <DSQITEM code="114" lenexcode="114" name="Ha lasciato la sua corsia" options="ALL,INDIVIDUAL,RELAY" order="14" />
+    <DSQITEM code="115" lenexcode="115" name="Inosservanza delle istruzioni per l'uscita dalla vasca" options="ALL,INDIVIDUAL,RELAY" order="15" />
+    <DSQITEM code="120" lenexcode="120" name="Altre ragioni" options="ALL,INDIVIDUAL,RELAY" order="20" />
 <!-- START -->
     <DSQITEM code="201" lenexcode="201" name="Non rispetto degli ordini durante la procedura di partenza" options="ALL,INDIVIDUAL,RELAY" order="21" />
-    <DSQITEM code="202" lenexcode="202" name="Caduta in acqua prima del segnale di partenza" options="ALL,INDIVIDUAL,RELAY" order="22" />
     <DSQITEM code="204" lenexcode="204" name="Partenza prima del segnale di partenza" options="ALL,INDIVIDUAL,RELAY" order="24" />
     <DSQITEM code="205" lenexcode="205" name="Cambio anticipato (frazionista [N])" options="ALL,RELAY" order="25" />
-    <DSQITEM code="206" lenexcode="206" name="Più di un colpo di farfalla sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="26" />
+    <DSQITEM code="206" lenexcode="206" name="Piï¿½ di un colpo di farfalla sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="26" />
     <DSQITEM code="207" lenexcode="207" name="Due movimenti di braccia completi sott'acqua (partenza)" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="27" />
     <DSQITEM code="208" lenexcode="208" name="Fase sott'acqua oltre i 15m (partenza)" options="BACKSTROKE,FLY,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="28" />
     <DSQITEM code="209" lenexcode="209" name="Dita dei due piedi non in contatto col muro o la placca (partenza)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="29" />
@@ -32,34 +36,34 @@
     <DSQITEM code="304" lenexcode="304" name="Nuoto in posizione ventrale prima della virata (virata [N])" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="39" />
     <DSQITEM code="305" lenexcode="305" name="Ripartito in posizione dorsale (virata [N])" options="BREASTSTROKE,FLY,INDIVIDUAL,MEDLEY,RELAY" order="40" />
     <DSQITEM code="306" lenexcode="306" name="Non ripartito in posizione ventrale (virata [N])" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="41" />
-    <DSQITEM code="307" lenexcode="307" name="Fase subacquea: più d'un colpo di gambe a farfalla (virata [N])" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="42" />
+    <DSQITEM code="307" lenexcode="307" name="Fase subacquea: più di un colpo di gambe a farfalla (virata [N])" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="42" />
     <DSQITEM code="308" lenexcode="308" name="Due movimenti di braccia completi sott'acqua (virata [N])" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="43" />
-    <DSQITEM code="309" lenexcode="309" name="Fase sott'acqua oltre i 15m (virata [N])" options="BACKSTROKE,FLY,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="44" />
-    <DSQITEM code="310" lenexcode="310" name="Mani non seperato  (virata [N])" options="FLY,BREASTSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="45" />
+    <DSQITEM code="309" lenexcode="309" name="Fase d'immersione oltre i 15m (virata [N])" options="BACKSTROKE,FLY,FREESTYLE,INDIVIDUAL,MEDLEY,RELAY" order="44" />
+    <DSQITEM code="310" lenexcode="310" name="Mani non separate  (virata [N])" options="FLY,BREASTSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="45" />
 <!-- FINISH -->
     <DSQITEM code="401" lenexcode="401" name="Non portato in avanti le braccia sopra la superficie dell'acqua (arrivo)" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="51" />
     <DSQITEM code="403" lenexcode="403" name="Tocco non simultaneo con le due mani (arrivo)" options="BREASTSTROKE,FLY,INDIVIDUAL,MEDLEY,RELAY" order="52" />
     <DSQITEM code="404" lenexcode="404" name="Tocco non in posizione dorsale (arrivo)" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="53" />
-    <DSQITEM code="405" lenexcode="405" name="Nuotatore completamente sott'acqua  (arrivo)" options="BACKSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="54" />
-    <DSQITEM code="406" lenexcode="406" name="Mani non seperato  (arrivo)" options="FLY,BREASTSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="55" />
+    <DSQITEM code="405" lenexcode="405" name="Nuotatore completamente sommerso a più di 5 metri dal arrivo" options="BACKSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="54" />
+    <DSQITEM code="406" lenexcode="406" name="Mani non separate (arrivo)" options="FLY,BREASTSTROKE,MEDLEY,INDIVIDUAL,RELAY" order="55" />
 <!-- STYLE ERRORS -->
 <!-- BUTTTERFLY -->
     <DSQITEM code="501" lenexcode="501" name="Corpo non in posizione ventrale" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="61" />
-    <DSQITEM code="502" lenexcode="502" name="Movimenti delle braccia non simultanei" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="62" />
-    <DSQITEM code="503" lenexcode="503" name="Non portato in avanti le braccia sopra la superficie dell'acqua" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="63" />
+    <DSQITEM code="502" lenexcode="502" name="Braccia non portate in avanti e/o indietro simultaneamente" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="62" />
+    <DSQITEM code="503" lenexcode="503" name="Braccia non portate in avanti sopra l'acqua" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="63" />
     <DSQITEM code="504" lenexcode="504" name="Movimenti di gambe a rana durante la nuotata" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="64" />
     <DSQITEM code="505" lenexcode="505" name="Colpi di gambe alternati durante la nuotata" options="FLY,INDIVIDUAL,MEDLEY,RELAY" order="65" />
 <!-- BACKSTROKE -->
     <DSQITEM code="511" lenexcode="511" name="Non aver nuotato in posizione dorsale" options="BACKSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="71" />
 <!-- BREASTSTROKE -->
     <DSQITEM code="521" lenexcode="521" name="Corpo non in posizione ventrale" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="76" />
-    <DSQITEM code="522" lenexcode="522" name="Movimenti delle braccia non simultanei ed alla stessa altezza" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="77" />
+    <DSQITEM code="522" lenexcode="522" name="Movimenti delle braccia non simultanei" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="77" />
     <DSQITEM code="523" lenexcode="523" name="Gomiti non tenuti costantemente sotto la superficie dell'acqua" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="78" />
-    <DSQITEM code="524" lenexcode="524" name="Portato le mani all'indietro fino all'altezza delle anche" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="79" />
+    <DSQITEM code="524" lenexcode="524" name="Mani riportate dietro la linea delle anche" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="79" />
     <DSQITEM code="525" lenexcode="525" name="Piedi non rivolti all'esterno durante la fase propulsiva" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="80" />
-    <DSQITEM code="526" lenexcode="526" name="Movimenti delle gambe non simultanei ed alla stessa altezza" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="81" />
+    <DSQITEM code="526" lenexcode="526" name="Movimenti delle gambe non simultanei" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="81" />
     <DSQITEM code="527" lenexcode="527" name="Colpi di gambe alternati durante la nuotata" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="82" />
     <DSQITEM code="528" lenexcode="528" name="Colpi di gambe a farfalla durante la nuotata" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="83" />
-    <DSQITEM code="529" lenexcode="529" name="Testa  che non ha rotto la superficie dell'acqua" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="84" />
+    <DSQITEM code="529" lenexcode="529" name="La testa non rompe la superficie dell'acqua durant ogni ciclo" options="BREASTSTROKE,INDIVIDUAL,MEDLEY,RELAY" order="84" />
   </DSQITEMS>
 </SPLASH>
